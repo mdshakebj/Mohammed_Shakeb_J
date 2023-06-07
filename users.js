@@ -14,7 +14,7 @@
   },
 
   "user3": {
-   "name": "ramesh",
+   "name": "rahul",
    "password": "password3",
    "profession": "clerk",
    "id": 3
